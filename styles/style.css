@@ -368,17 +368,16 @@
 
 @media (width >= 768px) {
   .article-section_type_why,
-  .article-section_type_how {
+  .article-section_type_how,
+  .article-section_type_what {
     display: grid;
     grid-template-columns: 1fr 2fr;
     column-gap: 20px;
   }
 
   .article-section_type_what {
-    display: grid;
     grid-template-rows: auto auto;
     grid-template-columns: repeat(3, 1fr);
-    column-gap: 20px;
   }
 
   .paragraph-list_type_what {

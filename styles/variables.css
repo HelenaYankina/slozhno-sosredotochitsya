@@ -4,8 +4,8 @@
 */
 
 :root {
-  --accent-color: #ff0070;
   --background-image: url(../images/cover-image-dark.png);
+  --accent-color: #ff0070;
   --title-color: #DB00FF;
   --subtitle-color: #000028;
   --default-font: IBM Plex Mono, serif;
